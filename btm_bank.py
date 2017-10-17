@@ -1,5 +1,5 @@
 import functionalities as func
-#this is a comment
+
 options = ["Say hi","Add client","Add transaction","Look at money"]
 
 def show_options():
@@ -34,4 +34,5 @@ if __name__=="__main__":
    reception()
    demand = wait_demand()
    action_dispatcher(demand)
-    
+
+   #copied and pasted solutions by the original TF
