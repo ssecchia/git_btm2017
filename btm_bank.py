@@ -1,5 +1,5 @@
 import functionalities as func
-
+#this is a comment
 options = ["Say hi","Add client","Add transaction","Look at money"]
 
 def show_options():
